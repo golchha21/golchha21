@@ -64,4 +64,16 @@ Structured HTML generation designed to improve clarity, consistency, and long-te
 - Website: [https://www.ulhas.net](https://www.ulhas.net)  
 - LinkedIn: [https://www.linkedin.com/in/golchha21/](https://www.linkedin.com/in/golchha21/)
 
+---
+
+## Support & Maintenance
+
+These projects are actively maintained for real-world use, with a focus on reliability, clarity, and long-term sustainability.
+
+If you need help with integration, customization, or ongoing maintenance, or if you’d like to support the continued development of this work, you can do so here:
+
+[Buy me a coffee](https://www.buymeacoffee.com/golchha21)
+
+---
+
 Thanks for stopping by.
