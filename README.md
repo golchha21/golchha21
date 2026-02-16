@@ -37,6 +37,18 @@ Practical image optimization for Laravel-based platforms, focused on predictable
 
 ---
 
+### [WP Plugin Boilerplate](https://github.com/golchha21/wp-plugin-boilerplate)
+![PHP](https://img.shields.io/badge/PHP-%3E%3D7.4-777BB4?logo=php&logoColor=white)
+![Version](https://img.shields.io/github/v/tag/golchha21/wp-plugin-boilerplate)
+![Downloads](https://img.shields.io/github/downloads/golchha21/wp-plugin-boilerplate/total)
+![Last Commit](https://img.shields.io/github/last-commit/golchha21/wp-plugin-boilerplate?color=666666)
+
+A structured starting point for building maintainable WordPress plugins.
+
+This boilerplate focuses on clear architecture, predictable file structure, and separation of concerns, making it easier to build plugins that scale without turning into tightly coupled code.
+
+---
+
 ### [HTMLForge](https://github.com/golchha21/HTMLForge)
 ![PHP](https://img.shields.io/packagist/php-v/golchha21/htmlforge?logo=php&logoColor=white&color=777bb4)
 [![Version](https://img.shields.io/packagist/v/golchha21/htmlforge)](https://packagist.org/packages/golchha21/htmlforge)
