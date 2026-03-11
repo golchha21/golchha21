@@ -1,26 +1,26 @@
-# Hi, I’m Ulhas 👋
+# Hi, I'm Ulhas 👋
 
-![Web Platform Owner](https://img.shields.io/badge/Web%20Platform-Owner-444444)
-![Open Source](https://img.shields.io/badge/Open%20Source-Maintainer-555555)
-![Performance](https://img.shields.io/badge/Focus-Performance%20%26%20UX-666666)
-![SEO](https://img.shields.io/badge/Focus-Technical%20SEO-777777)
+![Web Development](https://img.shields.io/badge/Web-Development-444444)
+![Digital Strategy](https://img.shields.io/badge/Digital-Strategy-555555)
+![Open Source](https://img.shields.io/badge/Open%20Source-Maintainer-666666)
+![Technical SEO](https://img.shields.io/badge/Technical-SEO-777777)
+![HubSpot & Marketing](https://img.shields.io/badge/HubSpot-%26%20Marketing-888888)
+![Performance & UX](https://img.shields.io/badge/Performance-%26%20UX-999999)
 
-Web platform owner focused on performance, UX, and long-term maintainability.
+Web developer and digital strategist with 12+ years building and evolving web platforms — with a strong bias toward performance, clarity, and long-term maintainability.
 
-I build and evolve web platforms with an emphasis on clean UI, intuitive UX, technical SEO, accessibility, and systems that hold up over time. My work spans architecture, frontend development, optimization, and deployment, with a strong bias toward clarity, reliability, and sustainable improvement.
-
-I care less about shipping fast and more about shipping things that don’t need to be rewritten later.
+My work spans full-stack architecture, frontend development, technical SEO, and deployment. I care less about shipping fast and more about shipping things that don't need to be rewritten later.
 
 ---
 
 ## What I work on
 
-- Web platform architecture and frontend systems  
-- Performance optimization, Core Web Vitals, and PageSpeed  
-- Technical SEO, analytics, and conversion flows  
-- WordPress, Laravel, and LAMP-based platforms  
-- HubSpot integrations, automation, and growth tooling  
-- Open-source tools focused on developer experience and maintainability  
+- Web platform architecture and full-stack LAMP development
+- Performance optimization, Core Web Vitals, and PageSpeed
+- Technical SEO, analytics, and conversion flows
+- WordPress, WooCommerce, and Laravel-based platforms
+- HubSpot integrations, automation, and growth tooling
+- Open-source tools focused on developer experience and maintainability
 
 ---
 
@@ -45,7 +45,7 @@ Practical image optimization for Laravel-based platforms, focused on predictable
 
 A structured starting point for building maintainable WordPress plugins.
 
-This boilerplate focuses on clear architecture, predictable file structure, and separation of concerns, making it easier to build plugins that scale without turning into tightly coupled code.
+This boilerplate focuses on clear architecture, predictable file structure, and separation of concerns — making it easier to build plugins that scale without turning into tightly coupled code.
 
 ---
 
@@ -62,19 +62,28 @@ Structured HTML generation designed to improve clarity, consistency, and long-te
 
 ---
 
+### Other contributions
+[laravel-analytics](https://github.com/golchha21/laravel-analytics) · [laravel-options](https://github.com/golchha21/laravel-options) · [BoxPHPAPI](https://github.com/golchha21/BoxPHPAPI)
+
+---
+
 ## How I think about work
 
-- Ownership matters more than titles  
-- Performance and clarity are features  
-- Systems should get easier to maintain over time  
-- Tooling should reduce cognitive load, not add to it  
+- Ownership matters more than titles
+- Performance and clarity are features
+- Systems should get easier to maintain over time
+- Tooling should reduce cognitive load, not add to it
+- Good documentation is part of the work, not an afterthought
 
 ---
 
 ## Elsewhere
 
-- Website: [https://www.ulhas.net](https://www.ulhas.net)  
-- LinkedIn: [https://www.linkedin.com/in/golchha21/](https://www.linkedin.com/in/golchha21/)
+| Platform | Link |
+|----------|------|
+| 🌐 Website | [ulhas.net](https://www.ulhas.net) |
+| 💼 LinkedIn | [linkedin.com/in/golchha21](https://www.linkedin.com/in/golchha21/) |
+| ✉️ Email | [vardhans@ulhas.net](mailto:vardhans@ulhas.net) |
 
 ---
 
@@ -82,7 +91,7 @@ Structured HTML generation designed to improve clarity, consistency, and long-te
 
 These projects are actively maintained for real-world use, with a focus on reliability, clarity, and long-term sustainability.
 
-If you need help with integration, customization, or ongoing maintenance, or if you’d like to support the continued development of this work, you can do so here:
+If you need help with integration, customization, or ongoing maintenance — or if you'd like to support the continued development of this work:
 
 [Buy me a coffee](https://www.buymeacoffee.com/golchha21)
 
